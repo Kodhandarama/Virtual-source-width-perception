@@ -1,0 +1,39 @@
+In experiment one,
+design is the same
+ 
+Draw speaker array
+
+(write stimuli table)
+
+explain references:
+
+formants were obtained through LP analysis of natural vowel
+
+expt 2:
+
+to study the SNR levels required to delocalise a synthetic vowel
+
+write stimuli table
+
+explain stimuli
+where Vnsigma denotes that vowel v is synthesised with 
+the formant bandwidth at each formant frequency scaled by a factor of 'n'
+
+
+explain results:
+As the bandwidth increases, the SNR required to delocalise the vowel increases.
+Effect of each formant :
+
+instead of changing formant bandwidths at all frequencies, we changed the formant bandwidth for one formant and saw the effect.
+
+
+
+Apparent source width is the aurally perceived extent of a sound source. 
+The impression results from several auditory cues, which are affected by sound radiation characteristics of the source itself and by characteristics of the room.
+
+
+
+Applications of study of Auditory source width
+
+Wide sources are desired by listeners of music because these are associated with sound of acoustic music, opera, classical music, historically informed performance.
+Source width is one of the perception cues that is lost when a person suffers hearing loss. Understanding and quantizing ASW will help in improving design of auditory experiments and hearing aids.
