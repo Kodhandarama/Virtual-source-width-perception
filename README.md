@@ -7,6 +7,7 @@ Synthetic Vowel**
 
 **Experiment 3 : Role of NFD in the delocalisation of shaped noise vowels**
 
+![Screenshot from 2021-07-06 14-33-01](https://user-images.githubusercontent.com/44093589/124573365-1af20b00-de67-11eb-9fde-d1a84491d3a1.png)
 
     
 * **Code**
