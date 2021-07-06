@@ -1,13 +1,21 @@
 # Virtual-source-width-perception
 
+**Experiment 1 : VSWe perception of Natural vs
+Synthetic Vowel**
+
+**Experiment 2  : VSWe perception of synthetic white noise vowels**
+
+**Experiment 3 : Role of NFD in the delocalisation of shaped noise vowels**
+
 
     
-* Code
+* **Code**
 	* DATA + PLOTS
 
 		*	expt_data/all_expt_data.mat contains reading for all listeners and for all 3 experiments.
-		*	Expt 1 is in the format :
-		[ VSWe of Natural /a/ <br/>
+		*	Expt 1 is in the format :<br/>
+		[ <br/>
+		VSWe of Natural /a/ <br/>
 		 VSWe of Natural /i/	<br/>
 		 VSWe of Natural /u/	<br/>
 		 VSWe of Synthetic /a/	<br/>
@@ -15,8 +23,9 @@
 		VSWe of Synthetic /u/	<br/>
 		]	<br/>
 
-		*	Expt 2 and Expt 3 are in the format :
-				[ VSWe of Source1/a/ <br/>
+		*	Expt 2 and Expt 3 are in the format :<br/>
+				[<br/>
+			VSWe of Source1/a/ <br/>
 			 VSWe of Source2/a/	<br/>
 			 VSWe of Source1/i/	<br/>
 			 VSWe of Source2/i/	<br/>
